@@ -1,7 +1,7 @@
 from naoqi import ALProxy
 import time
 from qi import Session
-from robot.constants import JOINT_NAMES, NAO_PORT, NAO_IP
+from constants import JOINT_NAMES, NAO_PORT, NAO_IP
 from robot.search import NaoNode, NaoState, NaoProblem, StandZero
 # animations
 # from animations import pensive_pose, relaxation_pose, rest_pose, scratchBottom_pose, scratchHead_pose, scratchHand_pose
